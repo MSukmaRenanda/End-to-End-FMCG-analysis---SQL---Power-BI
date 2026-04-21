@@ -90,17 +90,17 @@ fmcg_raw
 
 ```
 📦 fmcg-b2b-analysis/
-├── 📂 sql/
+├── 📂 SQL/
 │   └── fmcg_analysis.sql             ← All queries (cleaning, RFM, ABC-XYZ)
 │                                        organized by section with headers
-├── 📂 dashboard/
+├── 📂 Dashboard/
 │   ├── fmcg_dashboard.pbix           ← Power BI Desktop file
 │   └── 📂 screenshots/
 │       ├── 01_executive_summary.png
 │       ├── 02_product_store.png
 │       ├── 03_channel_customer.png
 │       └── 04_inventory_supply.png
-├── 📂 dataset/
+├── 📂 Dataset/
 │   └── fmcg_raw.csv                  ← Raw dataset
 └── README.md
 ```
