@@ -141,5 +141,5 @@ fmcg_raw
 
 **Muhamad Sukma Renanda**
 📧 muhamadsukmarenanda@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/muhamadsukmarenanda)
+🔗 [LinkedIn](https://www.linkedin.com/in/muhamad-sukma-renanda-14022232b)
 🌐 [Portfolio Website](https://muhamadsukmarenanda.wixsite.com/portofolio-da)
